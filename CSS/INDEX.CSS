@@ -1,0 +1,25 @@
+:root{
+    --niceYellow: #FFD700;
+    --niceBrown: #ec9717;
+    --palePurple: #E68E8A;
+}
+
+.niceYellowBg{
+    background-color: var(--niceYellow);
+}
+
+.niceBrownBg{
+    background-color: var(--niceBrown);
+}
+
+.nicePurpleBg{
+    background-color: var(--palePurple);
+}
+
+.BMIContainer{
+    
+}
+
+.BMIinput{
+    width: 100%;
+}
